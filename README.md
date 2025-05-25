@@ -225,4 +225,7 @@ Used plugins in this dashboard:
 * [reacharts 1.x.x](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 
-<!-- GitAds-Verify: L3BCDT8K3S3G8791RKERISXS64C85OA5 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/airframe-react@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/airframe-react@github)
+
+
